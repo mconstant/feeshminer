@@ -18,3 +18,5 @@ For Ubuntu:
 
 ### Build and run the miner
 
+`make build && make mine_feesh`
+
