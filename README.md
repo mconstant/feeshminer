@@ -1,4 +1,4 @@
-# feeshminer
+# feeshminer - a Dockerized IronFish miner
 
 These instructions are for Ubuntu.... need instructions for another OS? please create an issue and request instructions for your Operating System...
 
