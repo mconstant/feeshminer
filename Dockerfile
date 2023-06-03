@@ -12,4 +12,4 @@ WORKDIR /bzminer_v14.3.2_linux
 
 RUN ln -s /bzminer_v14.3.2_linux/bzminer /bin/bzminer
 
-ENTRYPOINT ["/bin/bash", "-c", "bzminer -w DHPN3o2cH4tq4ntynpmFmbBKC3vLW9We3P -a kaspa -p stratum+tcp://kheavyhash.na.mine.zergpool.com:5555 -r DHPN3o2cH4tq4ntynpmFmbBKC3vLW9We3P --pool_password c=DOGE,mc=KAS,ID=fuffy"]
+ENTRYPOINT ["/bin/bash", "-c", "bzminer -a ironfish -w YOUR_IRONFISH_ADDRESS.YOUR_WORKER_NAME -p stratum+tcp://us2.ironfish.herominers.com:1145"]

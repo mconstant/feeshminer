@@ -4,5 +4,5 @@ build:
 bash:
 	docker run -it --entrypoint="" --gpus=all kaspaminer bash
 
-mine_doge:
+mine_fish:
 	docker run -it --gpus=all kaspaminer
